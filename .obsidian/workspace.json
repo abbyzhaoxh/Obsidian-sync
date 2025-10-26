@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes sync/README.md",
+                "file": "Ob notes/Thoughts/Random.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Random"
             }
           }
         ],
@@ -206,12 +206,13 @@
   },
   "active": "a234c2f711d9e608",
   "lastOpenFiles": [
-    "Ob notes/ISCL/Intro to CL.md",
+    "Ob notes/Thoughts/Untitled.md",
+    "Ob notes/Thoughts/Random.md",
     "notes sync/README.md",
+    "Ob notes/ISCL/Intro to CL.md",
     "Ob notes/ISCL/Animal and Plant Communication.md",
     "Ob notes/Reading/this is a new note.md",
     "Ob notes/ISCL/Syntax and Sematics.md",
-    "Ob notes/Thoughts/Random.md",
     "notes sync/test",
     "Ob note backup",
     "Ob notes/Reading/Patriarchy and accumulation on a world scale.md",
@@ -250,7 +251,6 @@
     "Ob notes/Kindle highlights/【美】乔纳森·斯拉特-远东冰原上的猫头鹰.md",
     "Ob notes/Kindle highlights/吉井忍-东京八平米.md",
     "Ob notes/Kindle highlights/杜布拉夫卡·乌格雷西奇-疼痛部.md",
-    "Ob notes/Kindle highlights/Klinenberg-Going Solo The Extraordinary Rise and Surprising Appeal of Living Alone.md",
-    "Ob notes/Kindle highlights/上野千鹤子-在熟悉的家中向世界道别 = 在宅ひとり死のススメ.md"
+    "Ob notes/Kindle highlights/Klinenberg-Going Solo The Extraordinary Rise and Surprising Appeal of Living Alone.md"
   ]
 }
