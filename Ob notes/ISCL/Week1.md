@@ -1,0 +1,38 @@
+- Corpus Linguistics
+	- 3CP: presentation 15min, 20 Slides
+	- 6CP: Presentation/Term paper 10 pgs/project(creat a small corpus from social media) Choose 2
+	- 9CP: All three
+	- 4 assignments (already forgot abt it but since I wrote it down...)
+- Methods I Programming
+	- ungraded, 10 graded take-home assignments, remember to test assignments before submission
+	- Python
+	- If doing all the home assignments well, it is possible to get enough marks to pass by Christsmas
+- Syntax and Sematics
+	- mid-term exam Dec 4; final exam Feb 5
+	- complete weekly exercise sheets (10 in total, for each exam, you need to submit 4 of 5 sheets, and submit acceptable solutions for 40% of the tasks)
+	- The course is about **variation in the strategies by which different languages encode semantics (stated in terms of functions) into syntax and morphology**
+	- Dependency syntax
+		- notice the pattern, describe it
+	- Parts-of-Speech Systems
+		- closed word class eg. prep. in English, limited number
+		- open word class eg. noun, verb, new words will add to it
+	- The Noun
+		- ![[Pasted image 20251021130709.png]]
+		- ![[Pasted image 20251021131055.png]]
+		- possessive marker: Arabic, Finish
+		- number: slovinian
+		- ![[Pasted image 20251021131706.png]]
+		- ![[Pasted image 20251021133240.png]]
+		- ![[Pasted image 20251021133256.png]]
+		- 
+	- The verb
+		- ![[Pasted image 20251021133823.png]]
+		- ![[Pasted image 20251021134021.png]]
+		- ![[Pasted image 20251021134429.png]]
+		- ![[Pasted image 20251021134707.png]]
+		- 
+- SNLP
+	- one final written exam;
+	- assignments: pen-paper+programming(in pair)
+	- tutorial on Friday
+	- intro video for Linear algebra

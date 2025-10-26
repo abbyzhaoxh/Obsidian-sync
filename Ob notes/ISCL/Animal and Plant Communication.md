@@ -1,0 +1,36 @@
+- 23/10
+	- Intro
+		- paper presentation
+		- 2000 words essay 
+	- Hockett's 'design features' of language
+		- auditory channel (the main characteristic of communication), broadcast transmission, rapid fading
+			- challenge: sign language, written language
+		- interchangeability and total feedback
+			- challenge: parent/children asymmetry; feedback is not total but filtered; no two speakers have the same learning history
+		- specialization, semanticity, arbitrariness
+			- arbitrariness: sound symbolism, words to deliver animal barking
+			- phonaesthemes
+		- discreteness
+		- productivity
+			- production/comprehension asymmetry
+			- overestimation of diversity in production
+			- complexity of congnitive system 
+		- duality of patterning
+			- Challenge: phonetic variety, meanings can be packed into words in non-linear ways
+		- with current linguistic theory
+			- arbitrary,  , the language system are as discrete calculus
+	- Nonhuman Animal Congnition
+		- Historical perspective
+		- Tinbergen's four questions
+			- proximate level: 
+				- How does the behavior develop? 
+				- What causes the behavior to happen? 
+			- ultimate level: How did the behavior evolve? What is the function of the behavior?
+			- Tinbergen's four questions: an appreciation and an update
+		- Hallmarks of Animal Cognition today
+		- Evolution is a process
+		- mechanism
+			- Natural selection
+			- Is behavior adaptive or a byproduct of something else?
+			- How do selection pressures shape communication, learning?
+			- What makes a trait look intelligent, and what does that tell us about its function?

@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "3fe6b91b6d6507c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ea581c5c8cc6e78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd453aaf9d413e0d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "58719487441d5974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ob notes/ISCL/Intro to CL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro to CL"
+            }
+          },
+          {
+            "id": "a234c2f711d9e608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes sync/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15bc7ffb7d2ecd88",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d4a6c3023aaeb90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c33dbb06f1e40b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7f5798bd22e819a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c8c1121e8012c3fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f40f7298a04026ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "16ba4277feab47a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab7450fee1934ae2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Thoughts/Random.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Random"
+            }
+          },
+          {
+            "id": "5450e8df3946cf59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Thoughts/Random.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Random"
+            }
+          },
+          {
+            "id": "5d892a01f5114340",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd596bec433160d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Thoughts/Random.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Random"
+            }
+          },
+          {
+            "id": "e27a4de888726fa7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a234c2f711d9e608",
+  "lastOpenFiles": [
+    "Ob notes/ISCL/Intro to CL.md",
+    "notes sync/README.md",
+    "Ob notes/ISCL/Animal and Plant Communication.md",
+    "Ob notes/Reading/this is a new note.md",
+    "Ob notes/ISCL/Syntax and Sematics.md",
+    "Ob notes/Thoughts/Random.md",
+    "notes sync/test",
+    "Ob note backup",
+    "Ob notes/Reading/Patriarchy and accumulation on a world scale.md",
+    "notes sync/notes sync",
+    "notes sync",
+    "Ob notes",
+    "Ob notes/Reading",
+    "Pics/Pasted image 20251023134743.png",
+    "Pics/Pasted image 20251023134507.png",
+    "Pics/Pasted image 20251023134331.png",
+    "Pics/Pasted image 20251023134108.png",
+    "Pics/Pasted image 20251023133528.png",
+    "Pics/Pasted image 20251023133413.png",
+    "Pics/Pasted image 20251023132120.png",
+    "Pics/Pasted image 20251023131542.png",
+    "Pics/Pasted image 20251023131122.png",
+    "Pics/Pasted image 20251023131014.png",
+    "Ob notes/ISCL/Week1.md",
+    "Ob notes/ISCL/Linguistics 101.md",
+    "Ob notes/ISCL/Precourse & Intro.md",
+    "Pics",
+    "Welcome.md",
+    "Files/百分制中文成绩单（原始成绩）.pdf",
+    "Files",
+    "Ob notes/ISCL",
+    "Ob notes/Thoughts/搞竞随想.md",
+    "Ob notes/Thoughts/2024日本游记.md",
+    "Ob notes/Thoughts/流失在之前电脑里的一些可能重要文件.md",
+    "Ob notes/Thoughts/2023年终总结重建版.md",
+    "Ob notes/Thoughts/2024年终总结.md",
+    "Ob notes/Kindle highlights/崔恩荣-明亮的夜晚.md",
+    "Ob notes/Kindle highlights/毕飞宇著-小说课.md",
+    "Ob notes/Kindle highlights/本•麦金泰尔-间谍与叛徒：改变历史的英苏谍战.md",
+    "Ob notes/Kindle highlights/奥尔加·托卡尔丘克-奥尔加魔幻小说集（2018国际布克奖获得者、诺贝尔文学奖实力候选佳作《白天的房子，夜晚的房子》《太古和其他的时间》共二册。）.md",
+    "Ob notes/Kindle highlights/(英)狄更斯-双城记.md",
+    "Ob notes/Kindle highlights/【美】乔纳森·斯拉特-远东冰原上的猫头鹰.md",
+    "Ob notes/Kindle highlights/吉井忍-东京八平米.md",
+    "Ob notes/Kindle highlights/杜布拉夫卡·乌格雷西奇-疼痛部.md",
+    "Ob notes/Kindle highlights/Klinenberg-Going Solo The Extraordinary Rise and Surprising Appeal of Living Alone.md",
+    "Ob notes/Kindle highlights/上野千鹤子-在熟悉的家中向世界道别 = 在宅ひとり死のススメ.md"
+  ]
+}

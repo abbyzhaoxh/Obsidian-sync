@@ -1,0 +1,11 @@
+- Ch 2
+	- labor - non-productive labor; non-wage labor(women, colonies, peasants)
+	- People must live to produce history; satisfaction of needs leads to other needs; men must make other men
+	- Production of the means of subsistence - social; the production of human being themselves - natural
+	- natural/social relationship
+	- *Maleness and femaleness are not biological givens, but rather the results of a long historical process* - Natural selection? Evolution? *The organic differences between women and men are differently interpreted and valued*
+	- *Women did not only collect and consume what trew in nature but they made things grow*
+	- 马克思主义经济学
+		- 物品 - 物质；劳动 - 具体劳动；抽象劳动 （价值是抽象劳动的凝结，定义交换的基础）
+		- 商品 - 物品 + 使用价值
+		- 交换 - 一般等价物（货币）

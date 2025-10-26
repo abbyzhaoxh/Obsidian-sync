@@ -1,0 +1,9 @@
+- Phonetics: the sounds of human speech, how they produced, received, their acoustic properties
+- Phonology: Phonology is the study of the patterns of sounds in a language and across languages.
+- Morphology: Study of morpheme, the smallest units of meaning in language, eg. suffixes, prefixes, cases, conjugations
+- Syntax: 
+	- rules/grammar to build sentence 
+	- Syntax trees
+- Semantics: study of literal meaning
+- Pragmatics: how context affects meaning in a conversation
+- Typology: a study that compare multiple languages on the bases of shared features. eg. what are the most popular way to organize a sentence - SOV/SVO/VSO

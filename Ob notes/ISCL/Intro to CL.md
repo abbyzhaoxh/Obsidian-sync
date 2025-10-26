@@ -1,0 +1,9 @@
+- 22/10
+	- CL
+		- knoledge-driven/data-driven
+	- NLP
+		- subfield of computer engineering
+		- making computers perform useful tasks involving language
+	- Machine Translation
+		- ![[Pasted image 20251022173144.png]]
+		- 

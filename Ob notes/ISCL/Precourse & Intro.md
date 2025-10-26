@@ -1,0 +1,56 @@
+- Conditional Admission courses
+	- **WS** Intro to CL 
+		- quiz, exam
+	- **WS** Syntax and Semantics
+		- ![[Pasted image 20251013150001.png]]
+		- Mid term and final exam
+	- **WS** Methods I - Programming and Data Analysis
+		- Python; Lectures, Tutorials, Programming Assignments, No exam -- Logic
+		- 60% from python take home assignments, 
+		- Tue 10-12 (from Oct 21), VG 0.02
+	- Text Technology |SS|
+	- Data Science for Linguists |SS|
+	- **WS** Statistical Methods for NLP I (Parsing) 
+		- Algorithms, introduction to NLP, ML
+		- Complete programming assignment to pass, exam
+		- two lectures/week
+	- Statistical Methods for NLP II (CL III) |SS|
+	- Grammar Formalisms |SS|
+		- ||someone saying that GF tutorial IS the class and Valentin is the savior||
+	- **WS** Psycholinguistics 
+		- ![[Pasted image 20251014112314.png]] 
+
+- Courses at SfS
+	- Beginning of the lecture period: enroll in Moodle
+		- Moodle: enroll to course, get materials, receive and submit assignments
+	- Sometime in December: sign up for exams in ALMA
+
+- Core Courses
+	- Challenges in CL 9CT
+		- Project based course, focus on NLP projects, report findings in a formal way
+		- Find questions/tasks, research, write paper
+	- Semantic Parsing 6/9CT
+		- Linguistics/NLP/SQL
+		- Read papers, programming, presentation, project based
+	- LLM-based Assistants - BA only
+	- Neural Networks in Practice
+		- assignments, exam
+
+- MA
+	- At least 3 term papers before start MA thesis
+	- supplementary course from external department needs to relevant to ISCL MA program, needs to be approved
+
+- MA MHB
+	- Components: 
+	- I, the Computational Linguistics core,
+	- II, the Supplementary area, which complementary classes are organized into basics, interdisciplinary context, and practical workload. 
+	- Each of the two study areas consists of three modules each of 15 credit points.
+	- Conditional Admission courses are belongs to ISCL-MA-02, 15 CT
+
+- Pre course 15/10
+	- Example research areas:
+		- Cognitive modeling with LMs
+		- Linguistic capabilities with LMs
+		- Mechanistic Interpretability
+	- Intro to CL
+		- 
